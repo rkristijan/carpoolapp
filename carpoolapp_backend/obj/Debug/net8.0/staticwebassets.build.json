@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i4DuWJHTQRXA0Q3zOGEC17cI4yv7fferWyMMGfUGamk=",
+  "Source": "carpoolapp_backend",
+  "BasePath": "_content/carpoolapp_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

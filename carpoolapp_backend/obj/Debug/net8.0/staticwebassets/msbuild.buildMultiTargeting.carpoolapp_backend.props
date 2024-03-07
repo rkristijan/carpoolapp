@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\carpoolapp_backend.props" />
+</Project>
