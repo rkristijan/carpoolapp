@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\RistovskiPC\\Desktop\\carpoolapp\\carpoolapp_backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3509A22-4519-4C83-97F9-4B706CFC3E1A}|carpoolapp_backend.csproj|c:\\users\\ristovskipc\\desktop\\carpoolapp\\carpoolapp_backend\\controllers\\ridescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3509A22-4519-4C83-97F9-4B706CFC3E1A}|carpoolapp_backend.csproj|solutionrelative:controllers\\ridescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3509A22-4519-4C83-97F9-4B706CFC3E1A}|carpoolapp_backend.csproj|c:\\users\\ristovskipc\\desktop\\carpoolapp\\carpoolapp_backend\\controllers\\utilscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3509A22-4519-4C83-97F9-4B706CFC3E1A}|carpoolapp_backend.csproj|solutionrelative:controllers\\utilscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3509A22-4519-4C83-97F9-4B706CFC3E1A}|carpoolapp_backend.csproj|c:\\users\\ristovskipc\\desktop\\carpoolapp\\carpoolapp_backend\\entities\\enums\\ridestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3509A22-4519-4C83-97F9-4B706CFC3E1A}|carpoolapp_backend.csproj|solutionrelative:entities\\enums\\ridestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3509A22-4519-4C83-97F9-4B706CFC3E1A}|carpoolapp_backend.csproj|c:\\users\\ristovskipc\\desktop\\carpoolapp\\carpoolapp_backend\\entities\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3509A22-4519-4C83-97F9-4B706CFC3E1A}|carpoolapp_backend.csproj|solutionrelative:entities\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3509A22-4519-4C83-97F9-4B706CFC3E1A}|carpoolapp_backend.csproj|c:\\users\\ristovskipc\\desktop\\carpoolapp\\carpoolapp_backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3509A22-4519-4C83-97F9-4B706CFC3E1A}|carpoolapp_backend.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3509A22-4519-4C83-97F9-4B706CFC3E1A}|carpoolapp_backend.csproj|c:\\users\\ristovskipc\\desktop\\carpoolapp\\carpoolapp_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3509A22-4519-4C83-97F9-4B706CFC3E1A}|carpoolapp_backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\RistovskiPC\\Desktop\\carpoolapp\\carpoolapp_backend\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\RistovskiPC\\Desktop\\carpoolapp\\carpoolapp_backend\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:56:57.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtilsController.cs",
+              "DocumentMoniker": "C:\\Users\\RistovskiPC\\Desktop\\carpoolapp\\carpoolapp_backend\\Controllers\\UtilsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UtilsController.cs",
+              "ToolTip": "C:\\Users\\RistovskiPC\\Desktop\\carpoolapp\\carpoolapp_backend\\Controllers\\UtilsController.cs",
+              "RelativeToolTip": "Controllers\\UtilsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:07:35.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RistovskiPC\\Desktop\\carpoolapp\\carpoolapp_backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\RistovskiPC\\Desktop\\carpoolapp\\carpoolapp_backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:50:04.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RidesController.cs",
+              "DocumentMoniker": "C:\\Users\\RistovskiPC\\Desktop\\carpoolapp\\carpoolapp_backend\\Controllers\\RidesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RidesController.cs",
+              "ToolTip": "C:\\Users\\RistovskiPC\\Desktop\\carpoolapp\\carpoolapp_backend\\Controllers\\RidesController.cs",
+              "RelativeToolTip": "Controllers\\RidesController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAcwHYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:15:10.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RideStatus.cs",
+              "DocumentMoniker": "C:\\Users\\RistovskiPC\\Desktop\\carpoolapp\\carpoolapp_backend\\Entities\\Enums\\RideStatus.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\RideStatus.cs",
+              "ToolTip": "C:\\Users\\RistovskiPC\\Desktop\\carpoolapp\\carpoolapp_backend\\Entities\\Enums\\RideStatus.cs",
+              "RelativeToolTip": "Entities\\Enums\\RideStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:43:51.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Users\\RistovskiPC\\Desktop\\carpoolapp\\carpoolapp_backend\\Entities\\Ride.cs",
+              "RelativeDocumentMoniker": "Entities\\Ride.cs",
+              "ToolTip": "C:\\Users\\RistovskiPC\\Desktop\\carpoolapp\\carpoolapp_backend\\Entities\\Ride.cs",
+              "RelativeToolTip": "Entities\\Ride.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:42:57.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
