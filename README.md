@@ -1,7 +1,8 @@
 # Carpool Application
 
-## Description
-A simple Carpool application with basic CRUD functionality using Vue.js for the frontend and .NET 8 for the backend.
+## Опис
+Едноставна апликација за делење на трошоци за патувања со CRUD функционалности со користење на Vue.js за frontend и .NET 8 за backend.
 
-## Created By
+Документацијата се наоѓа во коренот на датотеката.
+## Изработил
 Kristijan Ristovski, Index: 196062

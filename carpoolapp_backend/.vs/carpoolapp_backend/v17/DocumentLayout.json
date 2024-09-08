@@ -71,8 +71,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-08T11:56:51.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T11:56:51.167Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-08T11:56:32.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T11:56:32.638Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T15:56:57.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T15:56:57.881Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "Controllers\\UtilsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAcwA8AAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T18:07:35.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T18:07:35.551Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T21:50:04.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T21:50:04.06Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "Controllers\\RidesController.cs",
               "ViewState": "AQIAAEMAAAAAAAAAAAAAAH0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T19:15:10.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T19:15:10.723Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "Entities\\Ride.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T18:42:57.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T18:42:57.036Z"
             }
           ]
         }
