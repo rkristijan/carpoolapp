@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("carpoolapp_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89c8205d513e447418b1b58121c838f220dd64e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18e8c0859c5046b21efa90842f08abb2971553bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("carpoolapp_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("carpoolapp_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

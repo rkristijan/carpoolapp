@@ -2,7 +2,8 @@
 
 namespace carpoolapp_backend.Entities.Enums;
 
-public enum RideStatus {
+public enum RideStatus
+{
     [Description("ACTIVE")]
     Active,
     [Description("FULL")]

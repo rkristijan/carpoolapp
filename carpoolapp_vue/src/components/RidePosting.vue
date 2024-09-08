@@ -81,9 +81,6 @@ export default {
     ride: {
       type: Object,
       required: true
-    },
-    postingCall: {
-      type: Function
     }
   },
 
